@@ -1,0 +1,3 @@
+C:/Users/joaom/OneDrive/Ambiente de Trabalho/MetroMondego/cmake-build-debug/CMakeFiles/MetroMondego.dir
+C:/Users/joaom/OneDrive/Ambiente de Trabalho/MetroMondego/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaom/OneDrive/Ambiente de Trabalho/MetroMondego/cmake-build-debug/CMakeFiles/rebuild_cache.dir
